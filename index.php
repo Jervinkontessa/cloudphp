@@ -24,8 +24,6 @@
       </b>
     </div>
     <table border="2" cellspacing="0" cellpadding="5" class="center">
-
-
     <tr>
       <th>Nama</th>
       <td>
